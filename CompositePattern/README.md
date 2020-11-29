@@ -20,4 +20,4 @@ O Composite pattern é uma interface que permite tratar objetos complexos e prim
 
 ###### Exemplos Composite Pattern
 
-Com base nas aulas ministradas pelo professor João cunha, conseguimos concluir alguns exemplos em sala de aula para o mesmo padrão de projetos. [Exemplo Composite Pattern](https://github.com/IagoJuan/PadroesDeProjetos/tree/master/CompositePattern/Composite).
+Com base nas aulas ministradas pelo professor João cunha, conseguimos concluir alguns exemplos em sala de aula para o mesmo padrão de projetos. [Exemplo Composite Pattern](https://github.com/marcosgontijo/ProjetoJoao/tree/main/CompositePattern/Composite)
